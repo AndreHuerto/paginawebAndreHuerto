@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("/imagenes/bannerHuerto.jpg");
+}
+.rs{
+    background-color: rgb(1, 10, 27);
+    height: 30px;
+    width: 900px;
+    margin: 0 auto;
+
+}
+.banner{
+    width: 900px;
+    height: 300px;
+    background-image: url("/imagenes/banner1Huerto.jpg");
+    opacity: 85%;
+    margin: 0 auto;
+}
+.contenido{
+    width: 900px;
+    height: 600px;
+    background-color: white;
+    margin: 0 auto;
+}
+.contador{
+    width: 900px;
+    height: 100px;
+    background-color: rgb(27, 27, 27);
+    margin: 0 auto;
+}
+.empresa{
+    width: 900px;
+    height: 120px;
+    background-color: rgb(134, 143, 135);
+    margin-bottom: 100px;
+    margin: 0 auto;
+    bottom: 50px;
+    text-align: center;
+}
+.options{
+    font-family: 'Pragati Narrow', sans-serif;
+    color: rgb(109, 22, 209);
+    padding-top: 5px;
+}
+
+h3{
+    color: rgb(178, 180, 182);
+}
+.redes1{
+    padding: 7px 0px 5px 20px;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    float: left;
+}
+.redes2{
+    float: right;
+    padding: 7px 20px 5px 0px;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+}
+.logo_menu{
+    width: 900px;
+    height: 80px;
+    padding: 5px 20px 20px 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgb(49, 136, 235);
+}
+.imagen{
+    float: left;
+}
+.titulo{
+    float: left;
+    padding-left: 5px;
+    margin-top: 20px;
+    font-family: 'Anton', sans-serif;;
+    color: rgb(0, 17, 255);
+}
+nav{
+    height: 100px;
+    text-align: right;
+}
+nav ul{
+    list-style: none;
+    display: inline-block;
+ }
+nav ul li{
+     float: left;
+     margin-top: 5px;
+ }
+nav a {
+     color: rgb(155, 156, 158);
+     text-decoration: none;
+     font-size: 15px;
+     padding: 10px 10px 0px 10px;
+     font-family: 'Pragati Narrow', sans-serif;
+ }
+nav li a:hover{
+   color: rgb(73, 72, 72);
+   border-bottom: 2px solid rgb(42, 39, 39);
+ }
+ .header_banner{
+     color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    
+}
+ #t1{
+    font-size: 20px;
+    list-style: none; 
+    margin-bottom: 0;       
+ }
+
+ #t1 li{
+     display: inline;
+     font-family: 'Coda Caption', sans-serif;margin: 0;
+ }
+
+ #t3{
+     clear: both;
+ }
+ #t4{
+     font-size: 72px;
+     font-family: 'Coda Caption', sans-serif;
+     font-stretch: condensed;
+     opacity: 100%;
+}
+ #t5{
+     font-size: 22px;
+     font-family: 'Abril Fatface', cursive;
+     opacity: 100%;
+     margin-top: 110px;
+ }
+#conta{
+    list-style: none;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+#conta li{
+    display: inline;
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 24px;
+    box-sizing: border-box;
+    margin: 0px 10px 10px 20px;
+    color: rgb(121, 117, 117);
+}
+#title_footer{
+    list-style: none;
+}
+#title_footer li{
+    display: inline;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+#copy{
+    color: rgb(0, 0, 0);
+    margin-top: 5px;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: 12px;
+    
+}
